@@ -1,0 +1,5 @@
+asyncio
+flask
+Flask[async]
+websockets
+flask_cors
